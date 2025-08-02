@@ -1,1 +1,1 @@
-# RFleo
+# This project is focused on predicting house prices from a single 'variable Area of lot'. i.e., Univariate Linear Regression. More precisely, the optimized parameters (Slope & Bias) are calculated for the cost function using the Batch Gradient descent.
